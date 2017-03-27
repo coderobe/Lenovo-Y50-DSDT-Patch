@@ -6,7 +6,7 @@ Although older versions of the repo had scripts to automate patching of DSDT/SSD
 
 Please refer to this guide thread on tonymacx86.com for a step-by-step process, feedback, and questions:
 
-http://www.tonymacx86.com/yosemite-laptop-guides/165188-guide-lenovo-y50-y70-uhd-1080p-using-clover-uefi.html
+https://www.tonymacx86.com/threads/guide-lenovo-y50-uhd-or-1080p-using-clover-uefi-10-11.168612/
 
 
 ### Change Log:
